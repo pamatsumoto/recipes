@@ -1,8 +1,8 @@
 guacamole
 ingredients
-avocado
-lemon
-salt
+avocado 1
+lemon 2
+salt 1 spoon
 tomato
 
 instructions
